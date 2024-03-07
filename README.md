@@ -1,5 +1,5 @@
 # 💫 About Me:
-😺 Furry blogger<br>🌐 Website developer<br>💯 I know HTML, CSS, Wordpress, XenForo ...<br>🇺🇦 I was born in Ukraine, currently living in Kyiv<br>🍕 I speak english, ukrainian and russian languages<br>🔭 I can make you a modern website<br>💬 Ask me about anythink, I am a good person<br>⚡ Just another furry
+😺 Furry blogger<br>🌐 Website developer<br>💯 I know HTML, CSS, Wordpress, XenForo ...<br>🇺🇦 I was born in Ukraine, currently living in Kyiv<br>🍕 I speak english, ukrainian and russian languages<br>🔭 I can make you a modern website<br>💬 Ask me about anything, I am a good person<br>⚡ Just another furry
 
 
 ## 🌐 Socials:
