@@ -1,5 +1,4 @@
-name: gml-core
-version: '3'
+name: minelauncher
 
 services:
 
